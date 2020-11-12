@@ -11,4 +11,6 @@ Daily CSV tables with COVID-19 data are published everyday on the Sao Paulo Stat
 
 User downloads the csv file at https://www.seade.gov.br/coronavirus/
 
-Script when imported into ArcGIS Pro generates a chart, a thematic maps and gives the option to export a layout as PDF/
+Script when imported into ArcGIS Pro generates a chart and a thematic map that can be exported as a PDF file.
+Chart = death rate (num. of deaths / num. of cases)
+Thematic Map = color ramp for death rate in each city
